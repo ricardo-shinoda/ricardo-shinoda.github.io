@@ -18,3 +18,7 @@ a {
 img, ul, li {
     list-style: none;
 }
+
+img{
+    border-radius: 100%;
+}
