@@ -1,0 +1,16 @@
+body{
+    background-color: #272729;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+}
+
+a {
+    color: blanchedalmond;
+}
+
+#inicio{
+    font-style: oblique;
+    font-size: 50px;
+   
+}
