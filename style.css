@@ -14,3 +14,7 @@ a {
     font-size: 50px;
    
 }
+
+img, ul, li {
+    list-style: none;
+}
