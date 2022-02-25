@@ -40,6 +40,11 @@ ul, li{
     list-style: none;
 }
 
+li:hover{
+    background-color: #40a8af;
+    color: #272729;
+}
+
 h2{
     font-size: 30px;
 }
