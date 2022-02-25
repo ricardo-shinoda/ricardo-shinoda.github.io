@@ -86,3 +86,11 @@ footer{
     color: rgb(10, 97, 112);
 }
 
+.home{
+    background-color: #40a8af;
+    display: inline-block;
+    border-radius: 10%;
+    padding: 10px;
+    color: #272729;
+}
+
