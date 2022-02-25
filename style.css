@@ -1,24 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: #272729;
     color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 15px;
+    /* padding: 15px; */
 }
 
 a {
     color: blanchedalmond;
+    text-decoration: none;
 }
 
-#inicio{
+#name{
     font-style: oblique;
     font-size: 50px;
    
 }
 
-img, ul, li {
+
+img{
+    border-radius: 5%;
+}
+
+header{
+    /* display: inline; */
+    text-align: center;
+    padding: 10px;
+    background-color: #40a8af;
+    /* padding top: 0;    */
+    float:center;
+    color: #272729;
+}
+
+ul, li{
     list-style: none;
 }
 
-img{
-    border-radius: 100%;
+h2{
+    font-size: 30px;
 }
+
+footer{
+    background-color: #40a8af;
+    color: #272729;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.head{
+    /* display: inline-block; */
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+    /* padding-left: 40px; */
+}
+
+#fullbody{
+    padding: 20px;
+}
+.list {
+    text-align: center;
+    display: inline;
+    padding-left: 20px;
+}
+
+#about{
+    color: rgb(10, 97, 112);
+}
+
+#education{
+    color: rgb(10, 97, 112);
+}
+
+#skills{
+    color: rgb(10, 97, 112);
+}
+
+#reading{
+    color: rgb(10, 97, 112);
+}
+
