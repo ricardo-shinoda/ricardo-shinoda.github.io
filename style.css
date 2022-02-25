@@ -57,6 +57,9 @@ footer{
     padding: 20px;
     font-size: 20px;
     font-weight: bolder;
+    position: fixed;
+    top: 0;
+    width: 100%;
     
     /* padding-left: 40px; */
 }
@@ -101,5 +104,6 @@ footer{
 .block{
     width: 90%;
     text-align: justify;
+    overflow: auto;
 }
 
