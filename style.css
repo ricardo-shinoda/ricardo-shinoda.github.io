@@ -41,7 +41,7 @@ ul, li{
 }
 
 li:nth-child(odd){
-    background-color: rgb(10, 97, 112);
+    background-color: #40a8af;
 }
 
 /* li:hover{
