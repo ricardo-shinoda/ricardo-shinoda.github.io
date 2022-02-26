@@ -6,6 +6,7 @@ body{
     background-color: #272729;
     color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* padding: 3%;; */
     
 }
 
@@ -16,35 +17,41 @@ a {
 
 #name{
     font-style: oblique;
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;   
 }
 
 
 img{
-    border-radius: 5%;
+    border-radius: 10%;
 }
 
 header{
     text-align: center;
-    padding: 10px;
+    /* padding: 10?0px; */
     background-color: #40a8af;
     float:center;
     color: #272729;
+    /* padding: n; */
 }
 
 ul, li{
-    list-style: none;
+    /* list-style: none; */
+
 }
 
-li:hover{
+li:nth-child(odd){
+    background-color: rgb(10, 97, 112);
+}
+
+/* li:hover{
     background-color: #40a8af;
     color: #272729;
 }
 
 li:active{
     color: blanchedalmond;
-}
+} */
 
 h2{
     font-size: 30px;
