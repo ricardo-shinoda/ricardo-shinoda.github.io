@@ -78,12 +78,14 @@ footer{
     padding-left: 20px;
 }
 
-#about{
+/* #about{
     color: rgb(10, 97, 112);
-}
+    /* float: right;
+} */
 
 #education{
     color: rgb(10, 97, 112);
+    /* padding-top: 1000px; */
 }
 
 #skills{
@@ -102,8 +104,12 @@ footer{
     color: #272729;
 }
 
-.color{
-    color: #40a8af;
+.color .about{
+    color: #272729;
+    float: right;
+    /* padding-top: 10px; */
+    /* padding-right: 100px; */
+    text-align: justify;
 }
 
 .block{
@@ -113,7 +119,21 @@ footer{
 }
 
 .pic{
-    background-color: #40a8af;
-    padding: 5px;
+    /* background-color: #40a8af; */
+    padding: 20px;
+    float: left;
+}
+
+#align{ 
+    /* trabalhar nessa alteração, deixar tudo lado a lado */
+    display: inline-block;
+    float: right;
+    background-color: rgb(10, 97, 112);
+    /* width: 90%; */
+}
+
+.box   {
+    /* border: 2px solid green; */
+    ;
 }
 
