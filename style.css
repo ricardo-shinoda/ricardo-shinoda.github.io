@@ -21,12 +21,18 @@ img{
 
 header{
     text-align: center;
-    /* padding: 10?0px; */
     background-color: #40a8af;
     float:center;
-    color: #272729;
-    /* padding: n; */
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
 }
+
 
 ul, li{
     /* list-style: none; */
@@ -58,20 +64,28 @@ footer{
     padding: 10px;
 }
 
-.head{
-    text-align: center;
-    padding: 20px;
-    font-size: 20px;
-    font-weight: bolder;
-    position: fixed;
-    top: 0;
-    width: 100%;    
+.block{
+    width: 90%;
+    text-align: justify;
+    overflow: auto;
 }
 
+.box   {
+    padding-left: 60px;  
+    
+}
 .name{
     font-style: oblique;
     font-size: 60px;
     text-align: center;   
+}
+
+.align{ 
+    display: inline-block;
+    float: right;
+    background-color: rgb(10, 97, 112);
+    width: 90%;
+    position: relative;
 }
 
 .list {
@@ -81,10 +95,14 @@ footer{
 }
 
 .about{
-    /* padding-left: 200px; */
-    position: absolute;
-    padding-right: 300px;
-    /* padding-right: 10000px; */
+    padding-left: 200px;
+    
+}
+
+.paragraph{
+    padding-right: 5%;
+    /* float: right; */
+    text-align: justify;
 }
 
 .education{
@@ -111,17 +129,16 @@ footer{
 .color .about{
     color: #272729;
     float: right;
-    /* padding-top: 10px; */
-    /* padding-right: 100px; */
     text-align: justify;
-    /* padding-right: 9000px; */
+    /* padding-right: 20%; */
+    
 }
 
-.block{
-    width: 90%;
-    text-align: justify;
-    overflow: auto;
+.color{
+    padding-right: 100px;
 }
+
+
 
 .pic{
     /* background-color: #40a8af; */
@@ -129,18 +146,7 @@ footer{
     float: left;
 }
 
-.align{ 
-    /* trabalhar nessa alteração, deixar tudo lado a lado */
-    display: inline-block;
-    float: right;
-    background-color: rgb(10, 97, 112);
-    /* width: 90%; */
-    /* position: relative; */
-}
 
-.box   {
-    padding-left: 60px;
-    /* position: relative; */
-    
-}
+
+
 
