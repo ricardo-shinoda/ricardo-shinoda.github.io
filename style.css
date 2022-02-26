@@ -17,8 +17,7 @@ a {
 #name{
     font-style: oblique;
     font-size: 50px;
-    text-align: center;
-   
+    text-align: center;   
 }
 
 
@@ -78,14 +77,16 @@ footer{
     padding-left: 20px;
 }
 
-/* #about{
-    color: rgb(10, 97, 112);
-    /* float: right;
-} */
+.about{
+    /* padding-left: 200px; */
+    position: absolute;
+    padding-right: 300px;
+    /* padding-right: 10000px; */
+}
 
 #education{
     color: rgb(10, 97, 112);
-    /* padding-top: 1000px; */
+    padding-top: 300px;
 }
 
 #skills{
@@ -110,6 +111,7 @@ footer{
     /* padding-top: 10px; */
     /* padding-right: 100px; */
     text-align: justify;
+    /* padding-right: 9000px; */
 }
 
 .block{
@@ -130,10 +132,12 @@ footer{
     float: right;
     background-color: rgb(10, 97, 112);
     /* width: 90%; */
+    position: relative;
 }
 
 .box   {
-    /* border: 2px solid green; */
-    ;
+    padding-left: 60px;
+    /* position: relative; */
+    
 }
 
