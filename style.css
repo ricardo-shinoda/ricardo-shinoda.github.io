@@ -71,7 +71,7 @@ footer{
 }
 
 .box   {
-    padding-left: 60px;  
+    padding-left: 40px;  
     
 }
 .name{
@@ -85,7 +85,13 @@ footer{
     float: right;
     background-color: rgb(10, 97, 112);
     width: 90%;
-    position: relative;
+    /* position: relative; */
+}
+
+.second-block{
+    /* width: 90%; */
+    padding: 130px;
+    /* float: center; */
 }
 
 .list {
