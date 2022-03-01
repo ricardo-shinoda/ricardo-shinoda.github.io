@@ -129,8 +129,10 @@ footer{
     background-color: #40a8af;
     display: inline-block;
     border-radius: 10%;
-    padding: 10px;
+    padding: 5px;
     color: #272729;
+    float: left;
+    margin-left: 10px;
 }
 
 .color .about{
