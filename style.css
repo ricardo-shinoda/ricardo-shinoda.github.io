@@ -101,10 +101,22 @@ footer{
     l
 }
 
-.about{
-    padding-left: 200px;
+.color .about{
+    color: #272729;
+    /* float: right; */
+    text-align: justify;
+    padding-right: 5%;
     
 }
+
+/* .about{
+    padding-left: 200px;
+    
+} */
+
+/* .color{
+    padding-right: 200px;
+} */
 
 .paragraph{
     padding-right: 5%;
@@ -114,7 +126,7 @@ footer{
 
 .education{
     color: rgb(10, 97, 112);
-    padding-top: 200px;
+    padding-top: 300px;
 }
 
 .skills{
@@ -135,17 +147,9 @@ footer{
     margin-left: 10px;
 }
 
-.color .about{
-    color: #272729;
-    float: right;
-    text-align: justify;
-    /* padding-right: 20%; */
-    
-}
 
-.color{
-    padding-right: 100px;
-}
+
+
 
 
 
