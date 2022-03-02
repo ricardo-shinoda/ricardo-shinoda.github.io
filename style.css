@@ -101,27 +101,14 @@ footer{
     l
 }
 
-.color .about{
+.color .about .paragraph{
     color: #272729;
-    /* float: right; */
     text-align: justify;
-    padding-right: 5%;
+    border-right: 2000px;
     
 }
-
-/* .about{
-    padding-left: 200px;
-    
-} */
-
-/* .color{
-    padding-right: 200px;
-} */
-
 .paragraph{
-    padding-right: 5%;
-    /* float: right; */
-    text-align: justify;
+    padding-right: 50px;
 }
 
 .education{
@@ -146,12 +133,6 @@ footer{
     float: left;
     margin-left: 10px;
 }
-
-
-
-
-
-
 
 .pic{
     /* background-color: #40a8af; */
