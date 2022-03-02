@@ -71,7 +71,7 @@ footer{
 }
 
 .box   {
-    padding-left: 40px;  
+    padding-left: 20px;  
     
 }
 .name{
@@ -89,8 +89,8 @@ footer{
 }
 
 .second-block{
-    /* width: 90%; */
-    padding: 130px;
+    width: 88%;
+    padding-left: 130px;
     /* float: center; */
 }
 
